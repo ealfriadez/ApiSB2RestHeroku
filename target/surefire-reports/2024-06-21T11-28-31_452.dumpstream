@@ -1,0 +1,5 @@
+# Created at 2024-06-21T11:28:31.778
+Boot Manifest-JAR contains absolute paths in classpath 'F:\ESINPOL ALFRIADEZ\proyectos_sts\ApiSB2RestHeroku\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
